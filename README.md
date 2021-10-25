@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**wwwAlireza/wwwAlireza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Welcome to my GitHub page
+### I'm `Alireza`
+> Junior Frontend Developer
+### Skills
+:orange_circle: HTML <br>
+:large_blue_circle: CSS <br>
+:red_circle: SASS <br>
+:yellow_circle: JavaScript <br>
+:purple_circle: BootStrap <br>
+:white_circle: jQuery <br>
+### Links
+- [Linkedin](https://www.linkedin.com/in/wwwalireza/)
+- [CodePen](https://www.codepen.io/alireza82)
+- [BarnameNevisan](https://barnamenevisan.org/Profile/68586/alirezaM)
