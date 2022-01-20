@@ -32,7 +32,7 @@ I'm Alireza Mohammadi
 <p align="center">
  
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wwwAlireza&theme=blue-green">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green">
 </p>
 </details>
 
