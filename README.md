@@ -19,9 +19,11 @@ I'm Alireza Mohammadi
 <img src="https://img.shields.io/badge/-Html-007FFF?style=for-the-badge&logo=html5" />
 <img src="https://img.shields.io/badge/-Css-0000FF?style=for-the-badge&logo=css3"/>
 <img src="https://img.shields.io/badge/-Javascript-fd7e14?style=for-the-badge&logo=javascript"/>
+ <img src="https://img.shields.io/badge/-typescript-0d6efd?style=for-the-badge&logo=typescript"/>
 <img src="https://img.shields.io/badge/-SCSS-6f42c1?style=for-the-badge&logo=sass"/>
 <img src="https://img.shields.io/badge/-bootstrap-dc3545?style=for-the-badge&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-jquery-0d6efd?style=for-the-badge&logo=jquery"/>
+ <img src="https://img.shields.io/badge/-git-0d6efd?style=for-the-badge&logo=git"/>
 </p>
 <!--END_SECTION:colourise-->
 
