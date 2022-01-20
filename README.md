@@ -16,7 +16,7 @@ I'm Alireza Mohammadi
 
 <!--START_SECTION:colourise-->
 <p align=center>
-<img src="http://upir.ir/images/ebvjqr48ouukznkjbop.png" width="50px"/> <!--html-->
+<img src="http://upir.ir/images/ebvjqr48ouukznkjbop.png" width="50px" title="html"/> <!--html-->
 <img src="http://upir.ir/images/1rteu64vtjwoqo9rz.png" width="50px"/> <!--css-->
 <img src="http://upir.ir/images/ae8sxtefple0gbc4ubn.png" width="50px"/> <!--js-->
  <img src="http://upir.ir/images/7palzg8g3hweqxkfupog.png" width="50px"/> <!--ts-->
