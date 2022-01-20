@@ -23,7 +23,7 @@ I'm Alireza Mohammadi
 <img src="http://upir.ir/images/6ksr9uarb98a0fj9o08q.png" width="50px"/>
 <img src="http://upir.ir/images/y4othl6avtq2hkidnd.png" width="50px"/>
 <img src="http://upir.ir/images/5paygypfjup2x9mn1qx.png" width="50px"/>
- <img src="https://img.shields.io/badge/-git-0d6efd?style=for-the-badge&logo=git"/>
+ <img src="http://upir.ir/images/27mgpii4rsuz2725t5nz.png" width="50px"/>
 </p>
 <!--END_SECTION:colourise-->
 
