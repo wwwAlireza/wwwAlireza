@@ -18,11 +18,11 @@ I'm Alireza Mohammadi
 <p align=center>
 <img src="http://upir.ir/images/ebvjqr48ouukznkjbop.png" width="50px"/>
 <img src="http://upir.ir/images/1rteu64vtjwoqo9rz.png" width="50px"/>
-<img src="https://img.shields.io/badge/-Javascript-fd7e14?style=for-the-badge&logo=javascript"/>
- <img src="https://img.shields.io/badge/-typescript-0d6efd?style=for-the-badge&logo=typescript"/>
-<img src="https://img.shields.io/badge/-SCSS-6f42c1?style=for-the-badge&logo=sass"/>
-<img src="https://img.shields.io/badge/-bootstrap-dc3545?style=for-the-badge&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-jquery-0d6efd?style=for-the-badge&logo=jquery"/>
+<img src="http://upir.ir/images/ae8sxtefple0gbc4ubn.png" width="50px"/>
+ <img src="http://upir.ir/images/7palzg8g3hweqxkfupog.png" width="50px"/>
+<img src="http://upir.ir/images/6ksr9uarb98a0fj9o08q.png" width="50px"/>
+<img src="http://upir.ir/images/y4othl6avtq2hkidnd.png" width="50px"/>
+<img src="http://upir.ir/images/5paygypfjup2x9mn1qx.png" width="50px"/>
  <img src="https://img.shields.io/badge/-git-0d6efd?style=for-the-badge&logo=git"/>
 </p>
 <!--END_SECTION:colourise-->
