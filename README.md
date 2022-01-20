@@ -16,8 +16,8 @@ I'm Alireza Mohammadi
 
 <!--START_SECTION:colourise-->
 <p align=center>
-<img src="http://upir.ir/images/yo7pn4bhkw4haaogtyn.png" />
-<img src="http://upir.ir/images/hemojhggc67pobsherk.png"/>
+<img src="http://upir.ir/images/n4kaf88ffelj1pcv1ey.png" />
+<img src="http://upir.ir/images/gwhkuqfbwymzfjtjk4lz.png"/>
 <img src="https://img.shields.io/badge/-Javascript-fd7e14?style=for-the-badge&logo=javascript"/>
  <img src="https://img.shields.io/badge/-typescript-0d6efd?style=for-the-badge&logo=typescript"/>
 <img src="https://img.shields.io/badge/-SCSS-6f42c1?style=for-the-badge&logo=sass"/>
