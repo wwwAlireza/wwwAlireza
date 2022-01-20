@@ -33,9 +33,9 @@ I'm Alireza Mohammadi
  
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wwwAlireza&theme=blue-green">
  <img style="padding: 30px" />
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wwwAlireza&theme=blue-green">
  <br>
- <img align="center" style="padding-top: 20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green">
+ <img align="center" style="padding-top: 40px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwAlireza&theme=blue-green">
 
 </p>
 </details>
