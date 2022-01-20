@@ -29,11 +29,11 @@ I'm Alireza Mohammadi
 
 <details open>
 <summary> <b>📊 Some GitHub stats </b></summary>
- <br>
+
 <p align="center">
- 
+ <br>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wwwAlireza&theme=blue-green">
- <img style="padding: 50px" />
+  <br>
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wwwAlireza&theme=blue-green">
  <br>
  <br>
