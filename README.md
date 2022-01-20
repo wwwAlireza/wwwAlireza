@@ -35,7 +35,7 @@ I'm Alireza Mohammadi
  <img style="padding: 30px" />
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green">
  <br>
- <img align="center" style="margin-top: 15px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green">
+ <img align="center" style="padding-top: 20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green">
 
 </p>
 </details>
