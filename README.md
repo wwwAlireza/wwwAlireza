@@ -30,10 +30,9 @@ I'm Alireza Mohammadi
 <details open>
 <summary> <b>📊 Some GitHub stats </b></summary>
 <p align="center">
-<!--   <img align="center" width="450" height="165" src="https://github-readme-stats.vercel.app/api?username=wwwAlireza&show_icons=true&hide_border=false&line_height=20&show_owner=true&bg_color=0,EE82EE,FFFFFF&theme=graywhite"/>
-<img align="center" width="450" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwAlireza&layout=compact&hide=HTML&langs_count=10&bg_color=0,EE82EE,FFFFFF&theme=graywhite"/> -->
-
+ 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wwwAlireza&theme=blue-green">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green">
 </p>
 </details>
 
