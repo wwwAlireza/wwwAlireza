@@ -14,12 +14,6 @@ I'm Alireza Mohammadi
 
 <h3> 👨‍💻 Skills</h3>
 
-<style>
-  img:hover{
-   transform: scale(1.1);
-  }
- </style>
-
 <!--START_SECTION:colourise-->
 <p align=center>
 <img src="http://upir.ir/images/ebvjqr48ouukznkjbop.png" width="50px" title="Html"/> <!--html-->
