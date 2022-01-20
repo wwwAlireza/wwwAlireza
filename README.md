@@ -29,6 +29,7 @@ I'm Alireza Mohammadi
 
 <details open>
 <summary> <b>📊 Some GitHub stats </b></summary>
+ <br>
 <p align="center">
  
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wwwAlireza&theme=blue-green">
