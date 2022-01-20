@@ -21,8 +21,8 @@ I'm Alireza Mohammadi
 <img src="http://upir.ir/images/ae8sxtefple0gbc4ubn.png" width="50px"/> <!--js-->
  <img src="http://upir.ir/images/7palzg8g3hweqxkfupog.png" width="50px"/> <!--ts-->
 <img src="http://upir.ir/images/6ksr9uarb98a0fj9o08q.png" width="50px"/> <!--sass-->
-<img src="http://upir.ir/images/9by6uedmruumqe4r6808.png" width="50px"/> <!--bootstrap-->
-<img src="http://upir.ir/images/wp2pf5nrfcv0p47g0r.png" width="50px"/> <!--jquery-->
+<img src="http://upir.ir/images/qp1c1i6kscvmy40w80wd.png" width="50px"/> <!--bootstrap-->
+<img src="http://upir.ir/images/7r7hsdnada6mtsu8wrr.png" width="50px"/> <!--jquery-->
  <img src="http://upir.ir/images/27mgpii4rsuz2725t5nz.png" width="50px"/> <!--git-->
 </p>
 <!--END_SECTION:colourise-->
