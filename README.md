@@ -46,6 +46,7 @@ I'm Alireza Mohammadi
  
 <details open>
 <summary> <b>📫 Contact me </b></summary>
+ <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/wwwalireza/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linedin-wwwAlireza-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:alireza.mhm2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alireza.mhm2@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
