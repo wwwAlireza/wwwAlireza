@@ -21,7 +21,7 @@ I started in 2019. One of the things I've always been interested in is developin
 <img src="http://upir.ir/images/ebvjqr48ouukznkjbop.png" width="60px" title="Html"/> <!--html-->
 <img src="http://upir.ir/images/1rteu64vtjwoqo9rz.png" width="60px" title="Css"/> <!--css-->
 <img src="http://upir.ir/images/ae8sxtefple0gbc4ubn.png" width="60px" title="Javascript"/> <!--js-->
-<img src="http://upir.ir/images/m03clu9lpmuwxl44vd.png" width="60px" title="react"/> <!--react-->
+<img src="http://upir.ir/images/m03clu9lpmuwxl44vd.png" width="60px" title="React"/> <!--react-->
 <img src="http://upir.ir/images/7palzg8g3hweqxkfupog.png" width="60px" title="Typescript"/> <!--ts-->
 <img src="http://upir.ir/images/6ksr9uarb98a0fj9o08q.png" width="60px" title="Sass"/> <!--sass-->
 <img src="http://upir.ir/images/qp1c1i6kscvmy40w80wd.png" width="60px" title="Bootstrap"/> <!--bootstrap-->
