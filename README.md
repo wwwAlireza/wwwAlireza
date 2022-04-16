@@ -12,7 +12,6 @@ I'm Alireza Mohammadi
 > FrontEnd Developer <br>
 > I work as a FrontEnd developer and I have various activities in this field
 I started in 2019. One of the things I've always been interested in is developing libraries and plugins for web technologies. Because I do not want to be just a user. By user, I mean I'm not interested in just learning technologies and starting to use them, but I believe we programmers and developers need to develop open source plugins and libraries.
-I am currently learning react & redux
 
 
 <h3> 👨‍💻 Skills</h3>
